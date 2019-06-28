@@ -33,6 +33,12 @@ sudo apt-get install neofetch -y
 sudo apt-get install ffmpeg -y 
 sudo apt-get install focuswriter -y
 sudo apt-get install ipfs-desktop -y
+sudo apt-get install obs-studio -y
+sudo apt-get install obs-plugins:amd64 -y
+sudo apt-get install steam:i386 -y
+sudo apt-get install google-chrome-stable -y
+sudo apt-get install focuswriter -y
+sudo apt-get install 4kvideodownloader -y
 
 ##  Many of these items may already be installed on your computer, 
 ##  But, if they are not, then, Here you go!
